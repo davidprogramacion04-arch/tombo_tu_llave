@@ -1,0 +1,13 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+venv/
+.venv/
+
+# Local configuration
+.env
+
+# Windows download metadata
+*.Zone.Identifier
