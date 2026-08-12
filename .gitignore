@@ -10,4 +10,4 @@ venv/
 .env
 
 # Windows download metadata
-*.Zone.Identifier
+*:Zone.Identifier*
